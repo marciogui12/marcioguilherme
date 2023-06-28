@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Kurale&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,400;1,500;1,600&family=Ysabeau+Infant:wght@200;300&display=swap');
+
+
+.item__nav{
+    font-size: 20px;
+    font-family: 'Ysabeau Infant', sans-serif;
+
+}
+
+.meu__nome{
+    font-family: 'Belanosima', sans-serif;
+    font-size: 25px;
+}
+
+.div__mae{
+    margin: 30px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.div__esquerda{
+    align-items: center;
+}   
+
+.elements{
+    text-align: center;
+}
+
+.my__picture{
+   border-radius: 50%;
+   width: 270px;
+   height: 270px;
+    
+    
+}
+
+.titulo__nome{
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.subtitulo{
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-align: center;
+}
+.paragrafo{
+    width: 454px;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 8px;
+    font-family:'Ysabeau Infant', sans-serif;
+    width: 200px;
+}
+
+.titulo__sobre__mim{
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-weight: bolder;
+}
+
+.paragrafo__sobre__mim{
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+    
+}
+
+.titulo__formacao{
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-weight: bolder;
+
+}
+
+.formacoes{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    text-align: center;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+
+}
+
+.rodape{
+    text-align: center;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+}
+
