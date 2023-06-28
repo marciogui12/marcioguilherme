@@ -6,7 +6,7 @@ O objetivo deste projeto é criar uma landing page para desktop, tablet e mobile
 HTML CSS BootStrap
 
 # Funcionalidades Principais
-· Introdução · Seção "Sobre mim" com uma biografia resumida · Seção "Skills" ilustrando as ferramentas e tecnologias que tenho estudado e desenvolvido · Seção "Hobbies" ilustrando o que eu gosto de fazer no tempo livre · Seção "Projetos" com alguns dos meus projetos com link do repositório e post com vídeo de demonstração · Seção "Contato" com validação do formulário utilizando JavaScript para garantir que os campos sejam preenchidos corretamente antes do envio · Pré-requisitos
+· Introdução · Seção "Sobre mim" com uma biografia resumida · Seção "Formações" mostrando as principais formações como estudante que tenho adquirido
 
 📌 Antes de executar o projeto, certifique-se de ter um navegador web atualizado instalado em sua máquina.
 
