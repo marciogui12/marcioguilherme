@@ -1,12 +1,12 @@
 # Challenge ONE Front End Alura 🚀
 Descrição do Projeto
-O objetivo deste projeto é criar uma landing page para desktop, tablet e mobile usando media queries para mostrar minhas habilidades no front end. O site consiste em várias seções: biografia, skills, hobbies, projetos e um formulário para contato.
+O objetivo deste projeto é criar uma landing page para desktop, tablet e mobile usando media queries para mostrar minhas habilidades no front end. O site consiste em algumas seções: biografia, sobre mim, e principais formações. 
 
 # Tecnologias Utilizadas
 HTML CSS BootStrap
 
 # Funcionalidades Principais
-· Introdução · Seção "Sobre mim" com uma biografia resumida · Seção "Formações" mostrando as principais formações como estudante que tenho adquirido
+· Introdução · Seção "Sobre mim" com uma biografia resumida · Seção "Formações" mostrando as principais formações como estudante que tenho adquirido, e um botão para download do CV.
 
 📌 Antes de executar o projeto, certifique-se de ter um navegador web atualizado instalado em sua máquina.
 
