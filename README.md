@@ -14,6 +14,6 @@ HTML CSS BootStrap
 1. Faça o download ou clone este repositório em sua máquina local.
 2. Navegue até o diretório do projeto.
 3. Abra o arquivo index.html em seu navegador web.
-4. Explore o site e verifique as diferentes seções, projetos e formulário de contato.
+4. Explore o site e verifique as diferentes seções.
 # Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correções, fique à vontade para abrir uma issue ou enviar um pull request.
